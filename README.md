@@ -19,7 +19,7 @@ This "bike sharing" dataset is provided by "Capital Bikeshare", Metro DC's bikes
 
 - Arnav: I'm a com sci major and I love football and music :)
 - Olivia: I'm a chemistry major and love fitness!
-- Medha: one sentence about you!
+- Medha: I'm a PPE (Philosophy, Politcs and Economics) and I love watching movies   
 
 ## References
 
