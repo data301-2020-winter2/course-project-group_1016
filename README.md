@@ -9,7 +9,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-{Add your stuff here}
+This "bike sharing" dataset is provided by "Capital Bikeshare", Metro DC's bikeshare service, who launched in 2010. They created this dataset in order to assess usage trends and plan expansion.  There are two csv files in the data folder: hour.csv and day.csv. The fields included in these data files are date, season, year, month, hour, holiday, day of the week, the weather, temperture, humidity, windspeed, casual users, registered users, and count of total rental bikes. The data has been processed in order to ensure there are no trips less than 60 seconds. 
 
 ## Describe your dataset in about 150-200 words
 
@@ -17,10 +17,10 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Team Members
 
-- Arnav: one sentence about you!
-- Olivia: one sentence about you!
+- Arnav: I'm a com sci major and I love football and music :)
+- Olivia: I'm a chemistry major and love fitness!
 - Medha: one sentence about you!
 
 ## References
 
-{Add your stuff here}
+Motivate International, Inc. “System Data.” Capital Bikeshare, www.capitalbikeshare.com/system-data. 
