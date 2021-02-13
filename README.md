@@ -13,7 +13,7 @@ This "bike sharing" dataset is provided by "Capital Bikeshare", Metro DC's bikes
 
 ## Describe your dataset in about 150-200 words
 
-{Add your stuff here}
+We thought this would be a really interesting dataset to use for our project becuase we believe that these bikesharing services are a really great idea! We all love biking, and believe that these services are really useful for people who dont have a car, or those who are trying to reduce their carbon footprint! For our dashboard, maybe we could create some kind of cool interactive map that showcases the data. 
 
 ## Team Members
 
