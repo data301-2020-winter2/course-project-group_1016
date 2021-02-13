@@ -19,7 +19,7 @@ We thought this would be a really interesting dataset to use for our project bec
 
 - Arnav: I'm a com sci major and I love football and music :)
 - Olivia: I'm a chemistry major and love fitness!
-- Medha: one sentence about you!
+- Medha: I'm a PPE (Philosophy, Politcs and Economics) and I love watching movies   
 
 ## References
 
