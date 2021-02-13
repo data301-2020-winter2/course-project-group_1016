@@ -17,7 +17,7 @@ This "bike sharing" dataset is provided by "Capital Bikeshare", Metro DC's bikes
 
 ## Team Members
 
-- Arnav: one sentence about you!
+- Arnav: I'm a com sci major and I love football and music :)
 - Olivia: I'm a chemistry major and love fitness!
 - Medha: one sentence about you!
 
