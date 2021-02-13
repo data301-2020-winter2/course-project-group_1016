@@ -17,7 +17,7 @@ We thought this would be a really interesting dataset to use for our project bec
 
 ## Team Members
 
-- Arnav: one sentence about you!
+- Arnav: I'm a com sci major and I love football and music :)
 - Olivia: I'm a chemistry major and love fitness!
 - Medha: one sentence about you!
 
