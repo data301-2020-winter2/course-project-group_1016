@@ -23,4 +23,4 @@ This "bike sharing" dataset is provided by "Capital Bikeshare", Metro DC's bikes
 
 ## References
 
-{Add your stuff here}
+Motivate International, Inc. “System Data.” Capital Bikeshare, www.capitalbikeshare.com/system-data. 
