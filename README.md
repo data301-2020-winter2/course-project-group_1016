@@ -18,7 +18,7 @@ This "bike sharing" dataset is provided by "Capital Bikeshare", Metro DC's bikes
 ## Team Members
 
 - Arnav: one sentence about you!
-- Olivia: one sentence about you!
+- Olivia: I'm a chemistry major and love fitness!
 - Medha: one sentence about you!
 
 ## References
