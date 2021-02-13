@@ -1,7 +1,7 @@
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=363609&assignment_repo_type=GroupAssignmentRepo)
 # Group YYY - {Short snappy Title of your project}
 
-- Your title can change over time.
+One Bike at a Time
 
 ## Milestones
 
@@ -23,4 +23,5 @@ We thought this would be a really interesting dataset to use for our project bec
 
 ## References
 
-Motivate International, Inc. “System Data.” Capital Bikeshare, www.capitalbikeshare.com/system-data. 
+(1) Motivate International, Inc. “System Data.” Capital Bikeshare, www.capitalbikeshare.com/system-data. 
+(2) Contributor Covenant: A Code of Conduct for Open Source Projects, www.contributor-covenant.org/. 
