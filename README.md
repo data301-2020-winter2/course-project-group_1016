@@ -17,9 +17,9 @@ This "bike sharing" dataset is provided by "Capital Bikeshare", Metro DC's bikes
 
 ## Team Members
 
-- Person 1: one sentence about you!
-- Person 2: one sentence about you!
-- Person 3: one sentence about you!
+- Arnav: one sentence about you!
+- Olivia: one sentence about you!
+- Medha: one sentence about you!
 
 ## References
 
