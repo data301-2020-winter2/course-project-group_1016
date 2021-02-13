@@ -1,0 +1,1 @@
+We hope to create a positive environment for those working with our dataset. Please use welcoming and inclusive language, be respectful of others, and gracefully accept contructive criticism. By participating in this project you agree to abide by these terms.
