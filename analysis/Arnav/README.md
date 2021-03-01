@@ -5,4 +5,4 @@
 ## This is a smaller header (#)
 
 *this is italic* (*text*)
-*this is bomc** (**text**)
+**this is bomc** (**text**)
