@@ -5,15 +5,17 @@ def load_and_process(url_or_path_to_csv_file):
     df1 = (
     pd.read_csv(url_or_path_to_csv_file)
     .rename(columns={"instant":"Instant", "dteday":"Date", "season":"Season", "mnth":"Month", "hr":"Hour", "weekday":"Day of Week", "workingday":"Workday?", "holiday":"Holiday?", "casual":"Casual Users", "registered":"Registered User", "cnt":"Total Users", "weathersit":"Weather Situation", "temp":"Temperature", "atemp":"Feeling Temperature", "hum":"Humidity", "windspeed":"Wind Speed"})
-    .drop(columns=['Humidity'])   
+    .drop(columns=['Humidity'])
+    .drop(columns=['yr'])    
     )
  
 
     #Method Chain 2 (Editing columns to be more descriptive)
     df2 = (
-    df1      
+    df1
+    .drop(columns=['Wind Speed'])    
     .assign(Casual_Ratio = df1['Casual Users'] / df1['Total Users'])
-    .assign(Average_temperature= (df1['Feeling Temperature'] +  df1['Temperature']) / 2)       
+    .assign(Average_temperature= (df1['Feeling Temperature'] +  df1['Temperature']) / 2)        
     )
     df2['Month'] = df1['Month'].replace([1,2,3,4,5,6,7,8,9,10,11,12], ['January','February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'])
     df2['Holiday?'] = df1['Holiday?'].replace([0,1], [False, True])                                                   
