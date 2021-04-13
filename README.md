@@ -23,3 +23,5 @@ We thought this would be a really interesting dataset to use for our project bec
 
 (1) Motivate International, Inc. “System Data.” Capital Bikeshare, www.capitalbikeshare.com/system-data. 
 (2) Contributor Covenant: A Code of Conduct for Open Source Projects, www.contributor-covenant.org/. 
+## Link to presentation
+https://youtu.be/OyUsceX2-20
